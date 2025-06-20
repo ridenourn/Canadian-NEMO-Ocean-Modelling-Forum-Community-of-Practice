@@ -10,7 +10,7 @@ Present Members
     :figwidth: 200px
 
 
-* Pouneh Hoshyar: I'm a Ph.D. student working with Dr. Myers, focusing on very high-resolution modelling of the Labrador Sea. My research aims to deepen our understanding of how changes in this critical region can affect the Atlantic Meridional Overturning Circulation and global climate. With a background in Civil Engineering, including a BSc and MSc, with a specialization in Water and Hydraulic Structures, I bring a unique perspective to my work. Through my research, I am eager to contribute towards a more sustainable future, one in which we prioritize both scientific discovery and the preservation of our planet.
+* Pouneh Hoshyar: I’m a PhD candidate working with Dr. Paul Myers, focusing on very high-resolution ocean modelling of the Labrador Sea using NEMO. My research aims to deepen our understanding of how changes in this critical region influence the Atlantic Meridional Overturning Circulation and global climate. I use eddy-rich, nested model configurations that enable detailed analysis of Labrador Sea dynamics by resolving complex small-scale processes such as eddies, essential for producing reliable model predictions.
 
 
 
@@ -18,7 +18,7 @@ Present Members
     :align: right
     :figwidth: 200px
 
-* Clark Pennelly: I'm currently a postdoctoral fellow with Paul Myers, where I spend most of my time developing new NEMO model configurations, updating our lab to newer NEMO versions,  building this website, and addressing any issues our lab members have with NEMO. I finished my PhD on modelling stratification within the Labrador Sea with Paul Myers in 2021, and before that I worked with Paul as a research assistant, setting up and carrying out numerical simulations using the AGRIF nesting software
+* Clark Pennelly: I'm currently a postdoctoral fellow with Paul Myers, where I spend most of my time developing new NEMO model configurations, updating our lab to newer NEMO versions,  building/updating this website, and addressing any issues our lab members have with NEMO. I finished my PhD on modelling stratification within the Labrador Sea with Paul Myers in 2021, and before that I worked with Paul as a research assistant, setting up and carrying out numerical simulations using the AGRIF nesting software.
 
 .. figure:: adam_headshot.jpg
     :align: right
