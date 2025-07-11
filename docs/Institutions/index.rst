@@ -9,5 +9,6 @@ NEMO is used across many institutions across Canada. The following list is those
    UofA/index
    UManitoba/index
    DFO/index
+   ECCC-CCCma/index
    MyInstitution/index
    
