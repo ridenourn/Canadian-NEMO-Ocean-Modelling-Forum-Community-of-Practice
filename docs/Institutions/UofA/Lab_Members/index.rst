@@ -140,6 +140,8 @@ Past Members
 
 * Nadiya completed a double major in Earth and Atmospheric Sciences and Physics at the University of Alberta in 2023 Her undergraduate thesis was with Dr. Myers’ lab focusing on the northern Canadian Arctic Archipelago region, studying the evolution of the Arctic Ocean and sea ice as represented in models. She is very passionate about arts and science communication, and loves engaging with the local community through her job at the TELUS World of Science Edmonton. Nadiya is now continuing their education, working towards an MSc at University of Victoria with a focus on physical climate and climate policy.
 
+* Natasha Ridenour: I was a PhD student supervised by Paul Myers and the late David Barber. My research focused on the freshwater system, with a specific focus on river discharge, within the Hudson Bay Complex (encompassing Hudson Bay, James Bay, Foxe Basin, and Hudson Strait). I used a combination of models and observations. I also did a short postdoc supervised by Paul Myers and Juliana Marson, with a continued focus on the Hudson Bay Complex.
+
 * Tanisha Garg: 2023 summer undergradate intern.
 
 * Elena Gebauer: 2023 summer undergraduate intern.
