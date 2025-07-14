@@ -3,7 +3,7 @@ Fisheries and Oceans Canada
 
 NEMO modelling at DFO
 
-NEMO modeling activities at DFO can be roughtly divided into short-term prediction and climate-scale. CONCEPTS is a partnership between DFO, ECCC and DND and runs a short-term (10 days) forecast system that covers all of Canada's oceans at 1/12 degree and limited regions at 1/36. Climate-scale studies use some of the sme grids as well as others and many applications include biogeochemistry. Climate-scale studies include hindcasts (reconstructions of recent climate variability based on observed atmospheric forcing) and climate downscaling experiments (forcing the ocean model with future climates simulated by global climate models).
+NEMO modeling activities at DFO can be roughtly divided into short-term prediction and climate-scale. CONCEPTS is a partnership between DFO, ECCC and DND and runs a short-term (10 days) forecast system that covers all of Canada's oceans at 1/12 degree and limited regions at 1/36. Climate-scale studies use some of the same grids as well as others and many applications include biogeochemistry. Climate-scale studies include hindcasts (reconstructions of recent climate variability based on observed atmospheric forcing) and climate downscaling experiments (forcing the ocean model with future climates simulated by global climate models).
 
 
 
