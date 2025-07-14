@@ -1,15 +1,73 @@
-ECCC-CCCMa
----------------------------
+NEMO modelling at ECCC-CCCMa
+===========================
 
-NEMO modeling activities at ECCC can be roughtly divided into short-term prediction and climate-scale. CONCEPTS is a partnership between ECCC, DFO, and DND and runs a short-term (10 days) forecast system that covers all of Canada's oceans at 1/12 degree and limited regions at 1/36. Climate-scale studies are centred at the CCCMa and use the global Earth System Model CanESM (Swart et al., 2019). More recently regional modelling activities have been introduced that utilise the CONCEPTS RIOPS grid. Biogeochemical models include CMOC (Zahariev et al, 2008) and CanOE (Christian et al, 2022).
+ECCC’s Canadian Centre for Climate modelling and analysis (CCCma;  `Centre climate modelling analysis - Canada.ca`_) uses NEMO for a number of different applications. CanNEMO is our version of NEMO that we use as the ocean and sea ice component for our global earth system model (CanESM) which is used for the Climate Model Intercomparison Project (CMIP). CanNEMO is also the ocean component for CCCma’s operational decadal predictions and for ½ of the ensemble members included in the Canadian Seasonal and Interannual Prediction System (CanSIPS), which provides seasonal predictions for Canada (the other ½ come from successive versions of the ECCC Meteorological Research Division's GEM-NEMO). Presently, we are working to develop the Canadian Three Oceans Downscaling System (CanTODS), a regional ocean domain that will cover Canada’s three oceans, that will be used for climate downscaling as well as for downscaling of seasonal to decadal predictions. 
 
-Global Climate Modelling
+In addition to our NEMO based physical ocean model, we develop two biogeochemistry models, the Canadian Ocean Ecosystem model (CanOE), and the Canadian Model of Ocean Carbon (CMOC). 
 
-CCCMa has been building global Earth System Models with prognostic ocean and land carbon cycles for almost two decades (Christian et al., 2010; Arora et al, 2011). The most recent published data are from CanESM5 and CanESM5-CanOE (Swart et al., 2019; Christian et al, 2022) CanESM6 is actively under development.
+.. _Centre climate modelling analysis - Canada.ca: https://www.canada.ca/en/environment-climate-change/services/climate-change/science-research-data/modeling-projections-analysis/centre-modelling-analysis.html
 
-Three Oceans modelling
+..
+  NEMO modeling activities at ECCC can be roughtly divided into short-term prediction and climate-scale. CONCEPTS is a partnership between ECCC, DFO, and DND and runs a short-term (10 days) forecast system that covers all of Canada's oceans at 1/12 degree and limited regions at 1/36. Climate-scale studies are centred at the CCCMa and use the global Earth System Model CanESM (Swart et al., 2019). More recently regional modelling activities have been introduced that utilise the CONCEPTS RIOPS grid. Biogeochemical models include CMOC (Zahariev et al, 2008) and CanOE (Christian et al, 2022).
+..
+  Global Climate Modelling
+..
+  CCCMa has been building global Earth System Models with prognostic ocean and land carbon cycles for almost two decades (Christian et al., 2010; Arora et al, 2011). The most recent published data are from CanESM5 and CanESM5-CanOE (Swart et al., 2019; Christian et al, 2022) CanESM6 is actively under development.
 
 
+Model Domains
+-----------------
+
+
+
+Model Code
+----------------
+Our model code can be found here: `CCCma / CanESM · GitLab`_
+
+.. _CCCma / CanESM · GitLab: https://gitlab.com/cccma/canesm
+
+
+Members
+-----------------
+* Jim Christian (biogeochemical modelling): `Jim Christian | Directory of scientists and professionals`_ 
+* Jonathan Izett (regional modelling): `Dr. Jonathan Izett | Directory of scientists and professionals`_ 
+* Nicolas Lambert (global ocean): `Nicolas Lambert | Directory of scientists and professionals`_ 
+* Bill Merryfield (seasonal to decadal predictions): `Dr. William Merryfield | Directory of scientists and professionals`_  
+* Elise Olson (seasonal to decadal predictions): `Dr. Elise Olson | Directory of scientists and professionals`_  
+* Natasha Ridenour (regional modelling): `Dr. Natasha Ridenour | Directory of scientists and professionals`_  
+* Damien Ringeisen (sea ice): `Dr. Damien Ringeisen | Directory of scientists and professionals`_  
+* Krysten Rutherford (biogeochemical modelling): `Dr. Krysten Rutherford | Directory of scientists and professionals`_  
+* Geoff Stanley (global ocean): `Geoff Stanley | Directory of scientists and professionals`_  
+* Nadja Steiner (biogeochemical modelling): `Nadja Steiner | Directory of scientists and professionals`_  
+* Jean Sterlin (global ocean): `Jean Sterlin | Directory of scientists and professionals`_  
+* Neil Swart (global earth system modelling): `Dr. Neil C. Swart | Directory of scientists and professionals`_  
+* Duo Yang (global ocean): `Dr. Duo Yang | Directory of scientists and professionals`_ 
+
+.. _Jim Christian | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/jim-christian
+.. _Dr. Jonathan Izett | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-jonathan-izett
+.. _Nicolas Lambert | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/nicolas-lambert
+.. _Dr. William Merryfield | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-william-merryfield
+.. _Dr. Elise Olson | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-elise-olson
+.. _Dr. Natasha Ridenour | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-natasha-ridenour
+.. _Dr. Damien Ringeisen | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-damien-ringeisen
+.. _Dr. Krysten Rutherford | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-krysten-rutherford
+.. _Geoff Stanley | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/geoff-stanley
+.. _Nadja Steiner | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/nadja-steiner
+.. _Jean Sterlin | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/jean-sterlin
+.. _Dr. Neil C. Swart | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-neil-c-swart
+.. _Dr. Duo Yang | Directory of scientists and professionals: https://profils-profiles.science.gc.ca/en/profile/dr-duo-yang
+
+
+
+Papers
+-----------------
+
+Model documenting papers
+^^^^^^^^^^^^^^^^^^
+
+
+Research papers
+^^^^^^^^^^^^^^^^
 
 
 
