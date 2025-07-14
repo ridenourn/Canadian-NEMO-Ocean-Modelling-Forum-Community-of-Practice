@@ -35,6 +35,8 @@ Holdsworth, A., L. Zhai, Y. Lu, and J. Christian (2021), Future Changes in Ocean
 
 Lavoie, D., N. Lambert, M. Starr, J. Chassé, O. Riche, Y. Le Clainche, K. Azetsu-Scott, B. Béjaoui, J. Christian, and D. Gilbert (2021), The Gulf of St. Lawrence Biogeochemical Model: A Modelling Tool for Fisheries and Ocean Management, Frontiers in Marine Science, 8, doi:10.3389/fmars.2021.732269.
 
+Macdermid, S., Y. Lu, L. Zhai, X. Hu, and D. Brickman (2025), Tuning ice model parameters to improve Arctic sea-ice simulation using the ERA5 atmospheric reanalysis forcing, Journal of Operational Oceanography, 18(1), 59-73, doi:10.1080/1755876X.2024.2447155.
+
 Olson, E., S. Allen, V. Do, M. Dunphy, and D. Ianson (2020), Assessment of Nutrient Supply by a Tidal Jet in the Northern Strait of Georgia Based on a Biogeochemical Model, Journal of Geophysical Research-Oceans, 125(8), doi:10.1029/2019JC015766.
 
 
