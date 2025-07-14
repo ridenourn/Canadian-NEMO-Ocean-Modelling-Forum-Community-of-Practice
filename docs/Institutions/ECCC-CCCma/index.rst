@@ -1,4 +1,4 @@
-NEMO modelling at ECCC-CCCMa
+ECCC-CCCMa
 ===========================
 
 ECCC’s Canadian Centre for Climate modelling and analysis (CCCma;  `Centre climate modelling analysis - Canada.ca`_) uses NEMO for a number of different applications. CanNEMO is our version of NEMO that we use as the ocean and sea ice component for our global earth system model (CanESM) which is used for the Climate Model Intercomparison Project (CMIP). CanNEMO is also the ocean component for CCCma’s operational decadal predictions and for ½ of the ensemble members included in the Canadian Seasonal and Interannual Prediction System (CanSIPS), which provides seasonal predictions for Canada (the other ½ come from successive versions of the ECCC Meteorological Research Division's GEM-NEMO). Presently, we are working to develop the Canadian Three Oceans Downscaling System (CanTODS), a regional ocean domain that will cover Canada’s three oceans, that will be used for climate downscaling as well as for downscaling of seasonal to decadal predictions. 
