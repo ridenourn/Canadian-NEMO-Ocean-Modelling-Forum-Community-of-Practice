@@ -18,11 +18,13 @@ In addition to our NEMO based physical ocean model, we develop two biogeochemist
 Model Domains
 -----------------
 eORCA1: eORCA1 domain and grid size. Grid size is based on the diagonal line through the cell.
-.. figure:: ./eORCA1_domaingridsize.png
+
+.. image:: eORCA1_domaingridsize.png
 
 
 eORCA025: eORCA025 domain and grid size. Grid size is based on the diagonal line through the cell.
-.. figure:: ./eORCA025_domaingridsize.png
+
+.. image:: eORCA025_domaingridsize.png
 
 
 CanTODS: Our regional ocean domain. This is currently a work in progress.
