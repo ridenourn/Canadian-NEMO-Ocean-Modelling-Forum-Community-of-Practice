@@ -1,7 +1,7 @@
 ECCC-CCCMa
 ===========================
 
-NEMO modeling activities at Environment and Climate Change Canada (ECCC) can be roughly divided into short-term prediction and climate-scale. CONCEPTS (Canadian Operational Network of Coupled Environmental PredicTion Systems) is a partnership between ECCC, Fisheries and Oceans Canada (DFO), and the Department of National Defense (DND) and runs a short-term (10 days) forecast system that covers all of Canada's oceans at 1/12 degree and limited regions at 1/36 degree.
+NEMO modelling activities at Environment and Climate Change Canada (ECCC) can be roughly divided into short-term prediction and climate-scale. CONCEPTS (Canadian Operational Network of Coupled Environmental PredicTion Systems) is a partnership between ECCC, Fisheries and Oceans Canada (DFO), and the Department of National Defense (DND) and runs a short-term (10 days) forecast system that covers all of Canada's oceans at 1/12 degree and limited regions at 1/36 degree.
 
 Climate-scale studies are centred at the Canadian Centre for Climate modelling and analysis (CCCma;  `Centre climate modelling analysis - Canada.ca`_). CCCma has been building global Earth System Models with prognostic ocean and land carbon cycles for almost two decades (Christian et al., 2010; Arora et al., 2011). We currently use the global earth system model CanESM (Swart et al., 2019).
 
