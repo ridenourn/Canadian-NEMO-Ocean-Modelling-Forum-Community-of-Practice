@@ -9,7 +9,7 @@ NEMO Workshop 29 May 2025 Documents
 
 * `Biogeochemical modelling Mentimeter poll results <_static/_UofA/NEMO_worksop-BiogeochemicalModellingMentimeterResults_20250529.pdf>`_
 
-* `NEMO Workshop Cross Institute Colaboration <_static/_UofA/NEMO_workshop_CrossInstituteColaboration_20250529_slides.pdf>`_
+* `NEMO Workshop Cross Institute Collaboration <_static/_UofA/NEMO_workshop_CrossInstituteColaboration_20250529_slides.pdf>`_
 
 * `Online chat log <_static/_UofA/Chat_save_NEMOworkshop_20250529.pdf>`_
 
