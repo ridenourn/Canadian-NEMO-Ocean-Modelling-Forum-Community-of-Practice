@@ -13,5 +13,5 @@ NEMO Workshop 29 May 2025 Documents
 
 * `Online chat log <_static/_UofA/Chat_save_NEMOworkshop_20250529.pdf>`_
 
-* `Workshop minutes <_static/_UofA/Canadian_Ocean_Modelling_Forum_workshop_ 29 May 2025_meeting_minutes.pdf>`_
+* `Workshop minutes <_static/_UofA/Canadian_Ocean_Modelling_Forum_workshop_29_May_2025_meeting_minutes.pdf>`_
 
