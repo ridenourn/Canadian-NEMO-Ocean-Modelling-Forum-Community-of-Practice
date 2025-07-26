@@ -22,7 +22,7 @@ Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
    Sources
    Groups
    Seminar
-   NEMO Workshop
+   Workshop
 
 Upcoming Events
 ===============
