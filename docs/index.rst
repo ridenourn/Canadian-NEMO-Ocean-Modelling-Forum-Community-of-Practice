@@ -22,6 +22,7 @@ Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
    Sources
    Groups
    Seminar
+   NEMO workshop 29 May 2025 documents
 
 Upcoming Events
 ===============
