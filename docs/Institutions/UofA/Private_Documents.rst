@@ -9,3 +9,6 @@ Documents listed below are for private lab use only. Visitors (and even lab memb
 
 `Adding a new Globus connection for a given simulations' output <https://docs.google.com/document/d/1eOFCLQNFgwlZ1jzGw7n80C6iPMrYOwAH_2X92iqW8K0/edit?usp=sharing>`_ 
 
+`Adding a new dataverse DOI <https://docs.google.com/document/d/1Lm4FYtlMEwAyS3WSXcu29EPJ4ruoGVPOe3DNfqGKIzE/edit?tab=t.0>`_
+
+
