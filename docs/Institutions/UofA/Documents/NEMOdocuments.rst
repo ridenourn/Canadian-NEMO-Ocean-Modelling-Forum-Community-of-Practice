@@ -3,7 +3,9 @@ NEMO Documents
 
 The following is a list of documents we use for our NEMO simulations. Many are locked to current/past lab members only.
 
-`NEMO 5 documents'
+.. toctree::
+   :maxdepth: 1
+    `NEMO 5 documents'
 
 `Upgrading from NEMO 3.6 to NEMO 4.2.2 on the Graham HPC system <https://docs.google.com/document/d/e/2PACX-1vSkEsy0oGQS4uz2inNB6YNs-3SU2oLFypTfi8mzUN6OhbUhHHqsAb3-R5tfrugOpPgVUZeVwoGs3f8L/pub>`_
 
