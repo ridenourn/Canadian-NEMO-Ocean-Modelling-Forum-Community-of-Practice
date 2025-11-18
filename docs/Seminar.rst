@@ -7,6 +7,59 @@ Each month we invite NEMO researchers and developers an opportunity to show thei
 2025:
 .....
 
+
+November 3rd
+............
+Jonathan Izett
+--------------
+"How large does a “regional” domain have to be to accurately simulate Canada’s three oceans on climate timescales?" 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The Canadian Centre for Climate Modelling and Analysis (CCCma), in collaboration with Fisheries and Oceans Canada (DFO) and researchers at the University of Alberta (UofA), is developing a Canadian Three Oceans Downscaling System (CanTODS). The development of this model configuration will provide consistent, higher-resolution physical and biogeochemical climate projections for the northeastern Pacific, Arctic, and northwestern Atlantic oceans. Initially developed at ¼-degree resolution, CanTODS will be deployed at 1/12-degree resolution on a modified eORCA grid.
+
+Antoine Haddon
+--------------
+"Implementing sea ice biogeochemistry in the Canadian Earth System Model"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+In the Arctic, blooms of primary producers develop at the bottom of sea ice, leading to high concentrations of biomass accumulating at the ice-ocean interface. These dense ice algal formations detach when sea ice warms and can sink rapidly, thereby contributing to the deep export of carbon, as confirmed by the observation of undegraded ice algal strands and aggregates on the seafloor. Ice algae also play a special role in the Arctic ecosystem as their blooms are the first pulse of primary production when light returns to high latitudes and are often the only food source for primary consumers in the spring. The Canadian Sea Ice Biogeochemistry model (CSIB) is being implemented in the Canadian Earth System Model (CanESM) within the NEMO ocean model, thereby allowing the inclusion of sea ice biogeochemistry in both regional and global climate simulations. The sea ice model (SI3) of NEMO offers a number of advantages towards implementing sea ice biogeochemistry, as in particular SI3 includes a sub-grid cell distribution of sea ice thickness, leading to a better representation of the heterogeneity of light at the bottom of sea ice. Along with improvements in the modeling of photophysiology and export processes, this new implementation of CSIB therefore allows a more accurate representation of ice algal blooms. Recent developments to CSIB included adding variable ice algal stoichiometry to represent photoacclimation and the seasonal evolution of carbon to chlorophyll ratios. Sea ice-ocean exchange processes were also further refined, including turbulent diffusion of nutrients as well as the various mechanisms by which ice algae are released from sea ice into the water column. 
+
+
+
+October 6th
+...........
+Abdoul Tall
+-----------
+"Advancing Biogeochemical Parameterizations in SalishSeaCast: Improved Representation of Oxygen Dynamics in the Salish Sea"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The SalishSeaCast model, a coupled physical-biogeochemical configuration of the hydrodynamic model NEMO-3.6, is used to reproduce the dynamics of the Salish Sea. We present recent advances in the SalishSeaCast model with a focus on oxygen.
+Key updates include explicit riverine inputs of dissolved and particulate organic nitrogen (DON and PON); stepwise remineralization (PON → DON → ammonium) with linear light-inhibited nitrification; inclusion of diatom resuspension at the seafloor; and a revised zooplankton closure (Z₂) , with explicit mortality and excretion pathways. Dissolved oxygen pathways are also refined through updated sinking and bottom reflection schemes that capture sediment oxygen demand.
+Interannual simulations from 2010–2020 resolve both the seasonal cycle and episodic renewal-driven oxygen inputs, linking physical exchange with biogeochemical demand. The new parameterization improves the realism of bottom dissolved oxygen and resolves previous biases. In Saanich Inlet, the previous configuration produced unrealistically high deep oxygen, whereas the new version, with a deepened Satellite Channel and increased bottom friction, captures the expected low-oxygen conditions. In Puget Sound, oxygen dynamics are shaped by a combination of stratification, remineralization, and climate forcing, with Lynch Cove standing out as the most sensitive sub-basin.
+These refinements improve the realism of the timing of oxygen consumption, resolving previous underestimations of bottom dissolved oxygen drawdown and better representing the balance between physical flushing and biogeochemical demand.
+
+Mukulika Pahari, Paul G. Myers
+------------------------------
+"Mechanisms behind the Bifurcation of Irminger Water into Davis Strait and the Northern Labrador Sea"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Irminger Water (IW), originating in the Irminger Current, is an important water mass supplying heat and salinity to the western subpolar North Atlantic. As the warmest (4-6°C) and most saline (34.9 PSU) water mass entering the region at intermediate depths, it plays varied roles in stratification and sea ice and glacier melt. IW brings heat to the interior of the Labrador Sea and helps maintain its weak stratification, essential for deep convection. IW also reaches the marine-terminating glaciers at Greenland through fjords where heat from this water mass melts the glaciers at depth and destabilizes them. This study investigates the variability and mechanisms of the flow of IW in the western subpolar North Atlantic and specifically the bifurcation near Fylla Bank that allows this water mass to enter Baffin Bay or the northern/western parts of the Labrador Sea. We use a 1/60° horizontal resolution simulation (LAB60) run with the NEMO (Nucleus for European Modelling of the Ocean) model and Lagrangian particle tracking with OceanParcels to estimate the pathways of IW and to find the drivers of this flow.  The results from this study allow us to improve our understanding of ocean heat forcing to the subpolar gyre.
+
+
+
+September 8th
+.............
+Bill Merryfield
+---------------
+"Application of ECCC’s NEMO-based global climate models to seasonal and decadal prediction"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A major application of CCCma’s global Earth system models, in addition to climate projection under future scenarios, is predicting climate variations and change over the coming season to decade. Since mid-2024, ECCC’s operational seasonal forecasts have come from CanESM5, the first of CCCma’s global models to employ NEMO as its ocean component, together with a Meteorological Research Division model that couples the GEM5.2 weather prediction model to NEMO. CanESM5 also produces ECCC’s decadal forecasts which are updated annually.  
+This talk will describe the models and initialization methods employed by ECCC’s seasonal and decadal prediction systems with an emphasis on their NEMO components, together with associated products including forecasts of sea surface temperature and Arctic sea ice. Current efforts  toward developing additional ocean-relevant forecast products and downscaling using the Canadian Three Ocean Downscaling System (CanTODS) are briefly surveyed.
+
+Luiz Henrique da Silva 
+----------------------
+"ANHALYZE: Handling and Visualizing NEMO outputs"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ANHALYZE is an open-source package, actively being developed in Python, aiming to simplify the analysis of outputs from the Arctic and North Hemisphere Atlantic (ANHA) configuration of the NEMO ocean model. This toolbox is designed to enhance oceanographic research by providing an accessible framework for users with different levels of experience. The main goal of the first release is to support users who are not familiar with ANHA outputs and/or Python programming, while also offering a starting point for more advanced analyses. The first version of ANHALYZE handles netCDF files in the ANHA-specific format and has key functionalities such as region selection with automatic awareness of units and dimensions, and the ability of easy map generation. Users can create maps with customizable projections, property-specific color schemes, and on-the-fly masking. Additionally, comprehensive documentation and tutorials are provided to guide users through the available features. Looking ahead, future versions will introduce additional scientific functions (e.g. heat and freshwater content calculators), and incorporate advanced tools, such as an interactive mask generator. ANHALYZE follows open-source principles and is hosted on GitHub, promoting collaboration and further development by the scientific community.
+
+
+
 June 2:
 .......
 Xiner Wu
