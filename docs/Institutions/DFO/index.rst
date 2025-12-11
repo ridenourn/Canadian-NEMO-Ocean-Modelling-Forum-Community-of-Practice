@@ -9,7 +9,7 @@ NEMO modeling activities at DFO can be roughtly divided into short-term predicti
 
 Three Oceans modelling
 
-DFO scientists have adapted a Canada-wide domain from the CONCEPTS short-term prediction system that extends from the low-latitude Atlantic to the mid-latitude Pacific and includes all of the North Atlantic and the Labrador Sea (MacDermid et al., 2025). There are 1/4 degree and 1/12 degree versions, with or without biogeochemistry, although the biogeochemical version has not yet been run at the higher resolution. Investigators at ECCC are also adapting this domain for their purposes.
+DFO scientists have adapted a Canada-wide domain from the CONCEPTS short-term prediction system that extends from the low-latitude Atlantic to the mid-latitude Pacific and includes all of the North Atlantic and the Labrador Sea (Christian et al., 2025; MacDermid et al., 2025). There are 1/4 degree and 1/12 degree versions, with or without biogeochemistry, although the biogeochemical version has not yet been run at the higher resolution. Investigators at ECCC are also adapting this domain for their purposes.
 
 
 NEP36
@@ -28,6 +28,8 @@ DFO investigators have developed a NEMO-based biogeochemical model of the Salish
 
 
 References
+
+Christian, J.R., F. Davidson,  A.M. Holdsworth, Y. Lu, J. Morgan, L. Zhai, and Z. Zheng, 2025. A Canada-wide ocean biogeochemical model encompassing the North Atlantic, North Pacific and Arctic Oceans. Atmosphere-Ocean, 10.1080/07055900.2025.2570153
 
 Holdsworth, A., A. Shao, and J. Christian (2025), Clustering to Characterize Extreme Marine Conditions for the Benthic Region of the Northeastern Pacific Continental Margin, Geophysical Research Letters, 52(10), doi:10.1029/2024GL112591.
 
