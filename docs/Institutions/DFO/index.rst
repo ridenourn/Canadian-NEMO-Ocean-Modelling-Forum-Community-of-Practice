@@ -29,7 +29,7 @@ DFO investigators have developed a NEMO-based biogeochemical model of the Salish
 
 References
 
-Christian, J.R., F. Davidson,  A.M. Holdsworth, Y. Lu, J. Morgan, L. Zhai, and Z. Zheng, 2025. A Canada-wide ocean biogeochemical model encompassing the North Atlantic, North Pacific and Arctic Oceans. Atmosphere-Ocean, 10.1080/07055900.2025.2570153
+Christian, J.R., F. Davidson,  A.M. Holdsworth, Y. Lu, J. Morgan, L. Zhai, and Z. Zheng (2025), A Canada-wide ocean biogeochemical model encompassing the North Atlantic, North Pacific and Arctic Oceans. Atmosphere-Ocean, 63, 10.1080/07055900.2025.2570153
 
 Holdsworth, A., A. Shao, and J. Christian (2025), Clustering to Characterize Extreme Marine Conditions for the Benthic Region of the Northeastern Pacific Continental Margin, Geophysical Research Letters, 52(10), doi:10.1029/2024GL112591.
 
