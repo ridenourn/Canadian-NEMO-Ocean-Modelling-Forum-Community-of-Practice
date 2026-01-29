@@ -2,12 +2,45 @@ Monthly Seminar Series
 ======================
 
 Each month we invite NEMO researchers and developers an opportunity to show their work in our seminar series. This takes place on zoom on the first monday of each month. If you are interested in presenting your work, please see the `google page <https://docs.google.com/forms/d/e/1FAIpQLSejoRsr-bj92uA1yKdWmb7neb4x7W8f9FmFb0zgqZLE2tw-TA/viewform?usp=sharing>`_ . See our calendar on the main page for the next speaker's abstract and zoom information. This page will provide past speakers of our seminar series.
-
 |
+
+2026:
+.....
+|
+Youyou Lu from DFO
+------------------
+"Sea level variations and underlying dynamics: Based on comparison and analyses of observation data and models"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The presentation is based on recently published and ongoing work on analyses of monthly sea levels during 1993-2023. Results from ¼-deg and 1/12-deg NEMO simulations covering Canada’s Three Oceans, without data assimilation, are compared with tide gauge and altimeter observations, and data assimilative global ocean reanalysis products at 1/12-deg (GLORYS12v1) and ¼-deg (ORAS5) resolutions.
+|
+For the Northwest Atlantic (off the coast of Canada and norther USA), only GLORYS12v1 possesses skills for sea level anomalies at time scales longer than 20 months. This suggests the influence of strong nonlinear dynamics, and innovative methods (e.g., ensemble prediction and/or Machine Learning) may be needed to make reliable predictions for future changes beyond synoptic time scales. Ongoing work extends to understanding and comparing the mechanisms of sea level variations between the western and eastern boundaries of the North Atlantic and North Pacific.
+|
+
+Adam Fu from the University of Alberta
+------------------------------------------------
+"Hotspots of small mesoscale eddies in the western Arctic Ocean observed by SWOT"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ocean eddies play crucial roles in climate and marine ecosystems. Still, small mesoscale eddies in the climate-sensitive and biologically unique Arctic Ocean, remain poorly characterized and understood due to the coarse resolution of traditional gridded altimetry products and sparse in-situ observations. Here, we show that the Surface Water and Ocean Topography (SWOT) satellite mission overcomes these limitations through unprecedented two-dimensional high-resolution measurements of sea level anomalies. We demonstrate SWOT's capability to quantify previously unresolved eddy properties, revealing three persistent hotspots of mesoscale eddies in the southern Beaufort Sea that actively transport low-salinity, heat-retaining, and nutrient-enriched waters from the continental shelf to the interior basin. The observed eddies demonstrate their critical role in shelf-basin exchange while revealing biases in current high-resolution models. These findings advance our understanding of Arctic mesoscale processes and provide essential benchmarks for improving ocean models for this rapidly changing environment.
+|
+|
+
 2025:
 .....
+December 1st
+............
+Rowan Brown from LMU Munich
+----------------------------
+The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models - 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Wintertime deep convection in the Labrador Sea regularly deepens the mixed layer below 1,000–2,000 m. Within eddy-present ocean general circulation models, limitations imposed by the grid resolution commonly result in deep biases beyond these observed extrema. In this study, we have evaluated whether these deep biases can be reduced by using (1) the Mixed Layer Eddy parameterisation, introduced by Fox-Kemper et al. (2011), and/or (2) tidal forcing. Using a suite of 1/4-degree resolution coupled ocean-sea ice NEMO simulations (ANHA4), we found that the mean impact of both the parameterisation and tidal forcing was to inhibit deep convection and shoal the Labrador Sea’s wintertime mixed layer. In this talk we will show how these results hold for two independent experiments using two different atmospheric forcing products (CGRF and ERA-Interim) and discuss the likely dynamical drivers involved. 
 
+Andrew Hamilton from the University of Alberta
+----------------------------
+The MObservationalist Approach: thoughts from a model-adjacent ocean observationalist - 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Advancing our understanding of ocean dynamics and the role of marine heat and freshwater transport, biogeochemical cycling, and climate feedbacks is critical to assess the current state of the ocean and predict its future evolution. To progress in this field requires the use of a variety of tools, including the complimentary application of in situ observations and numerical ocean circulation model. As a field-going Arctic oceanographer I have utilized a wide variety of observational techniques, from CTD profiling through sea ice with Inuit partners, to deploying autonomous underwater vehicles from large icebreakers, to multibeam seabed mapping from polar sailboats. In situ measurements are essential for understanding the real world, but observational datasets are limited in time and space. In contrast, numerical ocean circulation models are an extraordinarily powerful tool that can, in essence, allow an oceanographer to be everywhere all at once. Models are simulations however, and their ability to represent reality is only as good as their boundary and initial conditions, the forcings used to drive them, and the physical parameterizations within. Here, I will discuss what I have learned working alongside a NEMO ocean modelling group, some the limitations and strengths of models, and how field observations and models together have great potential to advance the state of oceanography in a rapidly changing world.
 
+|
 November 3rd
 ............
 Jonathan Izett
@@ -22,8 +55,7 @@ Antoine Haddon
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the Arctic, blooms of primary producers develop at the bottom of sea ice, leading to high concentrations of biomass accumulating at the ice-ocean interface. These dense ice algal formations detach when sea ice warms and can sink rapidly, thereby contributing to the deep export of carbon, as confirmed by the observation of undegraded ice algal strands and aggregates on the seafloor. Ice algae also play a special role in the Arctic ecosystem as their blooms are the first pulse of primary production when light returns to high latitudes and are often the only food source for primary consumers in the spring. The Canadian Sea Ice Biogeochemistry model (CSIB) is being implemented in the Canadian Earth System Model (CanESM) within the NEMO ocean model, thereby allowing the inclusion of sea ice biogeochemistry in both regional and global climate simulations. The sea ice model (SI3) of NEMO offers a number of advantages towards implementing sea ice biogeochemistry, as in particular SI3 includes a sub-grid cell distribution of sea ice thickness, leading to a better representation of the heterogeneity of light at the bottom of sea ice. Along with improvements in the modeling of photophysiology and export processes, this new implementation of CSIB therefore allows a more accurate representation of ice algal blooms. Recent developments to CSIB included adding variable ice algal stoichiometry to represent photoacclimation and the seasonal evolution of carbon to chlorophyll ratios. Sea ice-ocean exchange processes were also further refined, including turbulent diffusion of nutrients as well as the various mechanisms by which ice algae are released from sea ice into the water column. 
 
-
-
+|
 October 6th
 ...........
 Abdoul Tall
