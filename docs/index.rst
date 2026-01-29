@@ -33,6 +33,7 @@ Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
 
 Upcoming Events
 ===============
+Next seminar speakers: February 2nd 2026, Youyou Lu and Adam Fu 
 
 Events Calendar
 ---------------
