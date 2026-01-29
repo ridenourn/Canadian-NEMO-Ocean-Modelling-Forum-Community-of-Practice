@@ -2,28 +2,29 @@ Monthly Seminar Series
 ======================
 
 Each month we invite NEMO researchers and developers an opportunity to show their work in our seminar series. This takes place on zoom on the first monday of each month. If you are interested in presenting your work, please see the `google page <https://docs.google.com/forms/d/e/1FAIpQLSejoRsr-bj92uA1yKdWmb7neb4x7W8f9FmFb0zgqZLE2tw-TA/viewform?usp=sharing>`_ . See our calendar on the main page for the next speaker's abstract and zoom information. This page will provide past speakers of our seminar series.
-|
 
+|
 2026:
 .....
-|
+February 2nd
+............
 Youyou Lu from DFO
 ------------------
 "Sea level variations and underlying dynamics: Based on comparison and analyses of observation data and models"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The presentation is based on recently published and ongoing work on analyses of monthly sea levels during 1993-2023. Results from ¼-deg and 1/12-deg NEMO simulations covering Canada’s Three Oceans, without data assimilation, are compared with tide gauge and altimeter observations, and data assimilative global ocean reanalysis products at 1/12-deg (GLORYS12v1) and ¼-deg (ORAS5) resolutions.
+
 |
 For the Northwest Atlantic (off the coast of Canada and norther USA), only GLORYS12v1 possesses skills for sea level anomalies at time scales longer than 20 months. This suggests the influence of strong nonlinear dynamics, and innovative methods (e.g., ensemble prediction and/or Machine Learning) may be needed to make reliable predictions for future changes beyond synoptic time scales. Ongoing work extends to understanding and comparing the mechanisms of sea level variations between the western and eastern boundaries of the North Atlantic and North Pacific.
-|
 
+|
 Adam Fu from the University of Alberta
 ------------------------------------------------
 "Hotspots of small mesoscale eddies in the western Arctic Ocean observed by SWOT"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Ocean eddies play crucial roles in climate and marine ecosystems. Still, small mesoscale eddies in the climate-sensitive and biologically unique Arctic Ocean, remain poorly characterized and understood due to the coarse resolution of traditional gridded altimetry products and sparse in-situ observations. Here, we show that the Surface Water and Ocean Topography (SWOT) satellite mission overcomes these limitations through unprecedented two-dimensional high-resolution measurements of sea level anomalies. We demonstrate SWOT's capability to quantify previously unresolved eddy properties, revealing three persistent hotspots of mesoscale eddies in the southern Beaufort Sea that actively transport low-salinity, heat-retaining, and nutrient-enriched waters from the continental shelf to the interior basin. The observed eddies demonstrate their critical role in shelf-basin exchange while revealing biases in current high-resolution models. These findings advance our understanding of Arctic mesoscale processes and provide essential benchmarks for improving ocean models for this rapidly changing environment.
-|
-|
 
+|
 2025:
 .....
 December 1st
