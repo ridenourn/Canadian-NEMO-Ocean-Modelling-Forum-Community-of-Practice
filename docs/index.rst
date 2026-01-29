@@ -6,7 +6,7 @@ Welcome to the NEMO Ocean modelling forum Community of Practice. The goals of th
 
 .. figure:: NEMO_COP_Logo.png 
     :align: right
-    :figwidth: 300px
+    :figwidth: 200px
 
 Contents
 ========
