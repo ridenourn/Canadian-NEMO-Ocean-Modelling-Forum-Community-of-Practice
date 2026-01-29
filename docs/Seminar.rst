@@ -15,7 +15,7 @@ Youyou Lu from DFO
 The presentation is based on recently published and ongoing work on analyses of monthly sea levels during 1993-2023. Results from ¼-deg and 1/12-deg NEMO simulations covering Canada’s Three Oceans, without data assimilation, are compared with tide gauge and altimeter observations, and data assimilative global ocean reanalysis products at 1/12-deg (GLORYS12v1) and ¼-deg (ORAS5) resolutions.
 
 |
-For the Northwest Atlantic (off the coast of Canada and norther USA), only GLORYS12v1 possesses skills for sea level anomalies at time scales longer than 20 months. This suggests the influence of strong nonlinear dynamics, and innovative methods (e.g., ensemble prediction and/or Machine Learning) may be needed to make reliable predictions for future changes beyond synoptic time scales. Ongoing work extends to understanding and comparing the mechanisms of sea level variations between the western and eastern boundaries of the North Atlantic and North Pacific.
+For the Northwest Atlantic (off the coast of Canada and northern USA), only GLORYS12v1 possesses skills for sea level anomalies at time scales longer than 20 months. This suggests the influence of strong nonlinear dynamics, and innovative methods (e.g., ensemble prediction and/or Machine Learning) may be needed to make reliable predictions for future changes beyond synoptic time scales. Ongoing work extends to understanding and comparing the mechanisms of sea level variations between the western and eastern boundaries of the North Atlantic and North Pacific.
 
 |
 Adam Fu from the University of Alberta
