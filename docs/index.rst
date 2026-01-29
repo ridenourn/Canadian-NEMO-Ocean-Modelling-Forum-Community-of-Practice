@@ -23,12 +23,12 @@ Join our `our Slack channel <https://nemocanadaforum.slack.com>`_.
    Workshop
    Groups
 
+Upcoming Events
+===============
+
 .. figure:: meopar_logo-BLUE.png
     :align: right
     :figwidth: 200px
-
-Upcoming Events
-===============
 
 Canadian Ocean Modelling Consortium Workshop
 --------------------------------------------
