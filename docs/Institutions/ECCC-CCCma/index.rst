@@ -27,8 +27,11 @@ eORCA025: eORCA025 domain and grid size. Grid size is based on the diagonal line
 .. image:: eORCA025_domaingridsize.png
 
 
-CanTODS: Our regional ocean domain. This is currently a work in progress.
+Canadian Three Oceans Downscaling System (CanTODS): Our regional ocean domain covering Canada's three oceans for both 1/4 and 1/12 degree resolutions. Presently, open boundaries are located at 32N in the Pacific and 26N in the Atlantic. 
 
+.. image:: CanTODS4_domain.png
+
+.. image:: CanTODS12_domain.png
 
 
 Model Code
